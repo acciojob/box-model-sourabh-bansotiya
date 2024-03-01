@@ -14,14 +14,14 @@
     text-align: center;
    }
 
-   #box2{
+   .green{
     width: 100px;
     height: 100px;
        background-color: green;
        border-radius: 50%;
         
    }
-   #box3{
+   .yellow{
     width: 100px;
     height: 100px;
        background-color: yellow;
